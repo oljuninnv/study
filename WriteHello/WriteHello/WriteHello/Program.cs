@@ -12,6 +12,8 @@ namespace WriteHello
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Это был Воландеморт");
+            Console.WriteLine("щимцкфыжщромйЭЗРМПГНзфРЫТСМХЗЫРЫЕРТЩЖШФУТКРПЩЭШЦОПУЗЩ" +
+            "ФРИДлыгифтысДШЦКПЯГДВЕРЫКУЕР");
             Console.ReadLine();
         }
     }
