@@ -11,7 +11,7 @@ namespace WriteHello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
-            Console.WriteLine("Это был я....");
+            Console.WriteLine("Это был Воландеморт");
             Console.ReadLine();
         }
     }
