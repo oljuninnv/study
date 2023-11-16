@@ -1,0 +1,8 @@
+C:\Users\Maksim\Desktop\Papka\study\WriteHello\WriteHello\WriteHello\bin\Debug\WriteHello.exe.config
+C:\Users\Maksim\Desktop\Papka\study\WriteHello\WriteHello\WriteHello\bin\Debug\WriteHello.exe
+C:\Users\Maksim\Desktop\Papka\study\WriteHello\WriteHello\WriteHello\bin\Debug\WriteHello.pdb
+C:\Users\Maksim\Desktop\Papka\study\WriteHello\WriteHello\WriteHello\obj\Debug\WriteHello.csproj.AssemblyReference.cache
+C:\Users\Maksim\Desktop\Papka\study\WriteHello\WriteHello\WriteHello\obj\Debug\WriteHello.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maksim\Desktop\Papka\study\WriteHello\WriteHello\WriteHello\obj\Debug\WriteHello.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Desktop\Papka\study\WriteHello\WriteHello\WriteHello\obj\Debug\WriteHello.exe
+C:\Users\Maksim\Desktop\Papka\study\WriteHello\WriteHello\WriteHello\obj\Debug\WriteHello.pdb
